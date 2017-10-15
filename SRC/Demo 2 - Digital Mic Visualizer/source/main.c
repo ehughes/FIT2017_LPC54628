@@ -1,30 +1,3 @@
-/***
- *      ____                         _
- *     |  _ \  ___ _ __ ___   ___   / |
- *     | | | |/ _ \ '_ ` _ \ / _ \  | |
- *     | |_| |  __/ | | | | | (_) | | |
- *     |____/ \___|_| |_| |_|\___/  |_|          __  __             _
- *     |  _ \ _ __ __ _  __ _  | |_| |__   ___  |  \/  | ___  _ __ | | _____ _   _
- *     | | | | '__/ _` |/ _` | | __| '_ \ / _ \ | |\/| |/ _ \| '_ \| |/ / _ \ | | |
- *     | |_| | | | (_| | (_| | | |_| | | |  __/ | |  | | (_) | | | |   <  __/ |_| |
- *     |____/|_|  \__,_|\__, |  \__|_| |_|\___| |_|  |_|\___/|_| |_|_|\_\___|\__, |
- *                      |___/                                                |___/
- */
-
-/*
-This example adds a few items to lab 5 to show how to read the touch screen and render some graphics.
-
-Some important highlights ( and changes since lab 5!!)
-
-1.)    The CPU Runs at 180MHz.
-2.)    The Scatter file has this added at the end:
-
-	LR_EROM1 0x10000000 0x010000000  {    ; load region size_region
-  ER_EROM1 0x10000000 0x010000000  {  ; load address = execution address
-   *.o (ExtFlashSection)
-  }
-}
-*/
 
 /*
  * This demo shows to do some basic graphics including lines and bitmaps
@@ -84,17 +57,26 @@ volatile float MicBuffer[BUFFER_SIZE];
 float FFT_OutBuffer[BUFFER_SIZE];
 float PowerSpectrum[BUFFER_SIZE/2];
 
-void DMIC0_IRQHandler()
+
+/*
+ * The DMIC is configured to interrupt when our FIFO
+ * reaches a certain threshold.    In this case we
+ * are processing every sample.
+ *
+ * We could also use DMA to record blocks of microphone data
+ *
+ *
+ */void DMIC0_IRQHandler()
 {
 	int16_t NextSampleIn;
 
 	/*
-			This is the IRQ handler for the DMIC.   When the DMIC FIFO gets to a
-			preprogrammed level,  and interrupt will be generate and we will end up here!
-	*/
+	 *	This is the IRQ handler for the DMIC.   When the DMIC FIFO gets to a
+	 *	preprogrammed level,  and interrupt will be generate and we will end up here!
+	 */
 
    /*
-			there are several possible interrupt source from the DMIC FIFO.
+	   there are several possible interrupt source from the DMIC FIFO.
 	     Check to see that it was the INT flag
    */
 	if(DMIC0->CHANNEL[1].FIFO_STATUS & DMIC_CHANNEL_FIFO_STATUS_INT_MASK)
@@ -192,8 +174,6 @@ int main(void)
 
 			RequestBuffer = 1;
 
-
-
 			while(RequestBuffer == 1)
 			{
 
@@ -238,8 +218,9 @@ int main(void)
 												  "FIT2017 - Digital MIC Visualizer");
 								
 
-
+		     //Render the Logo
 		     eGFX_DMA_16BPP_Blit(&eGFX_BackBuffer, 0, 0, &Sprite_16BPP_565_galileo);
+
 			  //The last step is to dump the backbuffer to the screen.
 			  eGFX_Dump(&eGFX_BackBuffer);
 		}
