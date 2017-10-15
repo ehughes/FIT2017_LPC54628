@@ -55,7 +55,7 @@ int16_t eGFX_FMul_15_0to1_14(int16_t A,int16_t B);
 int16_t eGFX_ABS(int16_t A);
 
 
-#define eGFX_RGB888_TO_RGB565(R,G,B)	 ( ((R>>2)<<11) | ((G>>2)<<5) | (B>>3))
+#define eGFX_RGB888_TO_RGB565(R,G,B)	 ( ((R>>3)<<11) | ((G>>2)<<5) | (B>>3))
 
 
 #ifndef TRUE

@@ -6,9 +6,9 @@
 
 #define I2C2_MASTER_CLOCK_FREQUENCY (12000000)
 
-#define SAMPLE_RATE			 (48000U)									//This is what we want the Macro to be
-#define SAMPLE_RATE_REG  kWM8904_SampleRate48kHz  //This enum gets sent to the codec
-#define OVERSAMPLE_RATE  kWM8904_FsRatio512X//kWM8904_FsRatio384X    //Our PLL Rate is 24576000.   So, the oversample rate is 24576000/32000 which is 768
+#define SAMPLE_RATE		 (32000U)				   //This is the designed sample rate
+#define SAMPLE_RATE_REG   kWM8904_SampleRate32kHz  //This enum gets sent to the codec
+#define OVERSAMPLE_RATE   kWM8904_FsRatio768X       //Our PLL Rate is 24576000.   So, the oversample rate is 24576000/32000 which is 768
 #define I2S_CLOCK_DIVIDER (CLOCK_GetAudioPllOutFreq() / SAMPLE_RATE / 16U / 2U)  //THis computes the clock rate for the I2S bit clock.
 
 /*

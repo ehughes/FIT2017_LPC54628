@@ -243,7 +243,7 @@
 								<option id="com.crt.advproject.link.gcc.hdrlib.270585500" name="Library" superClass="com.crt.advproject.link.gcc.hdrlib" useByScannerDiscovery="false" value="com.crt.advproject.gcc.link.hdrlib.codered.nohost_nf" valueType="enumerated"/>
 								<option id="com.crt.advproject.link.gcc.nanofloat.408398096" name="Enable printf float " superClass="com.crt.advproject.link.gcc.nanofloat" useByScannerDiscovery="false"/>
 								<option id="com.crt.advproject.link.gcc.nanofloat.scanf.197897" name="Enable scanf float " superClass="com.crt.advproject.link.gcc.nanofloat.scanf" useByScannerDiscovery="false"/>
-								<option id="com.crt.advproject.link.script.1145014751" name="Linker script" superClass="com.crt.advproject.link.script" useByScannerDiscovery="false" value="Lab_6_-_eGFX_Debug.ld" valueType="string"/>
+								<option id="com.crt.advproject.link.script.1145014751" name="Linker script" superClass="com.crt.advproject.link.script" useByScannerDiscovery="false" value="&quot;Demo_1_-_Drag_The_Monkey_Debug.ld&quot;" valueType="string"/>
 								<option id="com.crt.advproject.link.scriptdir.2105265817" name="Script path" superClass="com.crt.advproject.link.scriptdir" useByScannerDiscovery="false"/>
 								<option defaultValue="com.crt.advproject.heapAndStack.mcuXpressoStyle" id="com.crt.advproject.link.memory.heapAndStack.style.847975840" name="Heap and Stack placement" superClass="com.crt.advproject.link.memory.heapAndStack.style" useByScannerDiscovery="false" valueType="enumerated"/>
 								<option id="com.crt.advproject.link.gcc.multicore.slave.100843011" name="Multicore configuration" superClass="com.crt.advproject.link.gcc.multicore.slave" useByScannerDiscovery="false"/>
@@ -493,7 +493,7 @@
 								<option id="com.crt.advproject.link.gcc.hdrlib.835275073" name="Library" superClass="com.crt.advproject.link.gcc.hdrlib" value="com.crt.advproject.gcc.link.hdrlib.codered.nohost_nf" valueType="enumerated"/>
 								<option id="com.crt.advproject.link.gcc.nanofloat.77577599" name="Enable printf float " superClass="com.crt.advproject.link.gcc.nanofloat"/>
 								<option id="com.crt.advproject.link.gcc.nanofloat.scanf.2109192068" name="Enable scanf float " superClass="com.crt.advproject.link.gcc.nanofloat.scanf"/>
-								<option id="com.crt.advproject.link.script.1961029122" name="Linker script" superClass="com.crt.advproject.link.script" value="Lab_6_-_eGFX_Release.ld" valueType="string"/>
+								<option id="com.crt.advproject.link.script.1961029122" name="Linker script" superClass="com.crt.advproject.link.script" value="&quot;Demo_1_-_Drag_The_Monkey_Release.ld&quot;" valueType="string"/>
 								<option id="com.crt.advproject.link.scriptdir.24072515" name="Script path" superClass="com.crt.advproject.link.scriptdir"/>
 								<option defaultValue="com.crt.advproject.heapAndStack.mcuXpressoStyle" id="com.crt.advproject.link.memory.heapAndStack.style.1265401846" name="Heap and Stack placement" superClass="com.crt.advproject.link.memory.heapAndStack.style" valueType="enumerated"/>
 								<option id="com.crt.advproject.link.gcc.multicore.slave.507881293" name="Multicore configuration" superClass="com.crt.advproject.link.gcc.multicore.slave"/>

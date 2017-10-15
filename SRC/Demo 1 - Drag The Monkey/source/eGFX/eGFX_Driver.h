@@ -13,4 +13,9 @@ extern void eGFX_WaitForVSync(void);
 //A Driver *Must* have a backbuffer exposed
 extern eGFX_ImagePlane eGFX_BackBuffer;
 
+extern void eGFX_ImagePlane_16BPP_ClearToColor(eGFX_ImagePlane   *Image,uint16_t Color);
+extern void eGFX_DMA_16BPP_Blit(eGFX_ImagePlane *Destination,
+								int16_t x,
+								int16_t y,
+								const eGFX_ImagePlane *Sprite);
 #endif

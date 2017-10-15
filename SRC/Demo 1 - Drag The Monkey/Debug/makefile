@@ -38,25 +38,25 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: FIT1_DragTheMonkey.axf
+all: Demo\ 1\ -\ Drag\ The\ Monkey.axf
 
 # Tool invocations
-FIT1_DragTheMonkey.axf: $(OBJS) $(USER_OBJS)
+Demo\ 1\ -\ Drag\ The\ Monkey.axf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"C:\Users\Eli Hughes\Desktop\FIT 2017\SRC\Demo 1 - Drag The Monkey\libs" -Xlinker -Map="FIT1_DragTheMonkey.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -T Lab_6_-_eGFX_Debug.ld -o "FIT1_DragTheMonkey.axf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -nostdlib -L"C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 1 - Drag The Monkey\libs" -Xlinker -Map="Demo 1 - Drag The Monkey.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -T "Demo_1_-_Drag_The_Monkey_Debug.ld" -o "Demo 1 - Drag The Monkey.axf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) FIT1_DragTheMonkey.axf
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) "Demo 1 - Drag The Monkey.axf"
 	-@echo ' '
 
 post-build:
 	-@echo 'Performing post-build steps'
-	-arm-none-eabi-size "FIT1_DragTheMonkey.axf"; # arm-none-eabi-objcopy -v -O binary "FIT1_DragTheMonkey.axf" "FIT1_DragTheMonkey.bin" ; # checksum -p LPC54608J512 -d "FIT1_DragTheMonkey.bin";
+	-arm-none-eabi-size "Demo 1 - Drag The Monkey.axf"; # arm-none-eabi-objcopy -v -O binary "Demo 1 - Drag The Monkey.axf" "Demo 1 - Drag The Monkey.bin" ; # checksum -p LPC54608J512 -d "Demo 1 - Drag The Monkey.bin";
 	-@echo ' '
 
 .PHONY: all clean dependents
