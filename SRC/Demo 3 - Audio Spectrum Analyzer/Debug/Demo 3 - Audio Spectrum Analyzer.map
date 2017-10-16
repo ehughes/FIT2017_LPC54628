@@ -1,21 +1,21 @@
 Archive member included to satisfy reference by file (symbol)
 
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
                               ./source/lpcxpresso54608/clock_config.o (POWER_SetVoltageForFreq)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
                               ./source/main.o (arm_rfft_fast_f32)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
                               ./source/main.o (arm_rfft_fast_init_f32)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
                               ./source/main.o (arm_cmplx_mag_squared_f32)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
-                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o) (twiddleCoef_rfft_4096)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
-                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o) (arm_cfft_f32)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
-                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o) (arm_radix8_butterfly_f32)
-C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
-                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o) (arm_bitreversal_32)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o) (twiddleCoef_rfft_4096)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o) (arm_cfft_f32)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o) (arm_radix8_butterfly_f32)
+C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+                              C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o) (arm_bitreversal_32)
 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
                               ./source/startup/startup_LPC54608.o (__main)
 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr_assert.o)
@@ -366,8 +366,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
- .debug_line    0x00000000      0x279 ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
- .debug_str     0x00000000     0x83ff ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
+ .debug_line    0x00000000      0x278 ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
+ .debug_str     0x00000000     0x83fe ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565/Magneto__26px__Regular__AntiAliasGridFit_16BPP_565.o
@@ -783,8 +783,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
- .debug_line    0x00000000      0x26d ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
- .debug_str     0x00000000     0x80ef ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
+ .debug_line    0x00000000      0x26c ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
+ .debug_str     0x00000000     0x80ee ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/Consolas__26px__Regular__AntiAliasGridFit_1BPP/Consolas__26px__Regular__AntiAliasGridFit_1BPP.o
@@ -1200,8 +1200,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
- .debug_line    0x00000000      0x25b ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
- .debug_str     0x00000000     0x7c57 ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
+ .debug_line    0x00000000      0x25a ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
+ .debug_str     0x00000000     0x7c56 ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/Arial__23px__Regular__SystemDefault_1BPP/Arial__23px__Regular__SystemDefault_1BPP.o
@@ -1617,8 +1617,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/FONT_3_5_1BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/FONT_3_5_1BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/FONT_3_5_1BPP.o
- .debug_line    0x00000000      0x1fc ./source/eGFX/Fonts/FONT_3_5_1BPP.o
- .debug_str     0x00000000     0x6789 ./source/eGFX/Fonts/FONT_3_5_1BPP.o
+ .debug_line    0x00000000      0x1fb ./source/eGFX/Fonts/FONT_3_5_1BPP.o
+ .debug_str     0x00000000     0x6788 ./source/eGFX/Fonts/FONT_3_5_1BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/FONT_3_5_1BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/FONT_3_5_1BPP.o
@@ -2034,8 +2034,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/FONT_3_5_4BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/FONT_3_5_4BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/FONT_3_5_4BPP.o
- .debug_line    0x00000000      0x1fc ./source/eGFX/Fonts/FONT_3_5_4BPP.o
- .debug_str     0x00000000     0x6789 ./source/eGFX/Fonts/FONT_3_5_4BPP.o
+ .debug_line    0x00000000      0x1fb ./source/eGFX/Fonts/FONT_3_5_4BPP.o
+ .debug_str     0x00000000     0x6788 ./source/eGFX/Fonts/FONT_3_5_4BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/FONT_3_5_4BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/FONT_3_5_4BPP.o
@@ -2451,8 +2451,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/FONT_3_5_8BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/FONT_3_5_8BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/FONT_3_5_8BPP.o
- .debug_line    0x00000000      0x1fc ./source/eGFX/Fonts/FONT_3_5_8BPP.o
- .debug_str     0x00000000     0x6789 ./source/eGFX/Fonts/FONT_3_5_8BPP.o
+ .debug_line    0x00000000      0x1fb ./source/eGFX/Fonts/FONT_3_5_8BPP.o
+ .debug_str     0x00000000     0x6788 ./source/eGFX/Fonts/FONT_3_5_8BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/FONT_3_5_8BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/FONT_3_5_8BPP.o
@@ -2868,8 +2868,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/FONT_5_7_1BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/FONT_5_7_1BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/FONT_5_7_1BPP.o
- .debug_line    0x00000000      0x1fc ./source/eGFX/Fonts/FONT_5_7_1BPP.o
- .debug_str     0x00000000     0x6789 ./source/eGFX/Fonts/FONT_5_7_1BPP.o
+ .debug_line    0x00000000      0x1fb ./source/eGFX/Fonts/FONT_5_7_1BPP.o
+ .debug_str     0x00000000     0x6788 ./source/eGFX/Fonts/FONT_5_7_1BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/FONT_5_7_1BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/FONT_5_7_1BPP.o
@@ -3285,8 +3285,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/FONT_5_7_4BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/FONT_5_7_4BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/FONT_5_7_4BPP.o
- .debug_line    0x00000000      0x1fc ./source/eGFX/Fonts/FONT_5_7_4BPP.o
- .debug_str     0x00000000     0x6789 ./source/eGFX/Fonts/FONT_5_7_4BPP.o
+ .debug_line    0x00000000      0x1fb ./source/eGFX/Fonts/FONT_5_7_4BPP.o
+ .debug_str     0x00000000     0x6788 ./source/eGFX/Fonts/FONT_5_7_4BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/FONT_5_7_4BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/FONT_5_7_4BPP.o
@@ -3702,8 +3702,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xe5 ./source/eGFX/Fonts/FONT_5_7_8BPP.o
  .debug_macro   0x00000000       0x34 ./source/eGFX/Fonts/FONT_5_7_8BPP.o
  .debug_macro   0x00000000       0x9a ./source/eGFX/Fonts/FONT_5_7_8BPP.o
- .debug_line    0x00000000      0x1fc ./source/eGFX/Fonts/FONT_5_7_8BPP.o
- .debug_str     0x00000000     0x6789 ./source/eGFX/Fonts/FONT_5_7_8BPP.o
+ .debug_line    0x00000000      0x1fb ./source/eGFX/Fonts/FONT_5_7_8BPP.o
+ .debug_str     0x00000000     0x6788 ./source/eGFX/Fonts/FONT_5_7_8BPP.o
  .comment       0x00000000       0x6f ./source/eGFX/Fonts/FONT_5_7_8BPP.o
  .ARM.attributes
                 0x00000000       0x39 ./source/eGFX/Fonts/FONT_5_7_8BPP.o
@@ -4065,8 +4065,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_adc.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_adc.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_adc.o
- .debug_line    0x00000000      0x3f8 ./source/drivers/fsl_adc.o
- .debug_str     0x00000000    0x850b9 ./source/drivers/fsl_adc.o
+ .debug_line    0x00000000      0x3f7 ./source/drivers/fsl_adc.o
+ .debug_str     0x00000000    0x850b8 ./source/drivers/fsl_adc.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_adc.o
  .debug_frame   0x00000000       0xe8 ./source/drivers/fsl_adc.o
  .ARM.attributes
@@ -4266,8 +4266,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_common.o
  .debug_macro   0x00000000       0x9a ./source/drivers/fsl_common.o
  .debug_macro   0x00000000       0x34 ./source/drivers/fsl_common.o
- .debug_line    0x00000000      0x3e7 ./source/drivers/fsl_common.o
- .debug_str     0x00000000    0x84cbe ./source/drivers/fsl_common.o
+ .debug_line    0x00000000      0x3e4 ./source/drivers/fsl_common.o
+ .debug_str     0x00000000    0x84cbd ./source/drivers/fsl_common.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_common.o
  .debug_frame   0x00000000       0x6c ./source/drivers/fsl_common.o
  .ARM.attributes
@@ -4332,8 +4332,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_crc.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_crc.o
  .debug_macro   0x00000000       0x10 ./source/drivers/fsl_crc.o
- .debug_line    0x00000000      0x325 ./source/drivers/fsl_crc.o
- .debug_str     0x00000000    0x84d38 ./source/drivers/fsl_crc.o
+ .debug_line    0x00000000      0x324 ./source/drivers/fsl_crc.o
+ .debug_str     0x00000000    0x84d37 ./source/drivers/fsl_crc.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_crc.o
  .debug_frame   0x00000000       0xa0 ./source/drivers/fsl_crc.o
  .ARM.attributes
@@ -4598,8 +4598,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_dmic_dma.o
  .debug_macro   0x00000000       0x22 ./source/drivers/fsl_dmic_dma.o
  .debug_macro   0x00000000       0x10 ./source/drivers/fsl_dmic_dma.o
- .debug_line    0x00000000      0x35d ./source/drivers/fsl_dmic_dma.o
- .debug_str     0x00000000    0x84cb3 ./source/drivers/fsl_dmic_dma.o
+ .debug_line    0x00000000      0x35c ./source/drivers/fsl_dmic_dma.o
+ .debug_str     0x00000000    0x84cb2 ./source/drivers/fsl_dmic_dma.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_dmic_dma.o
  .debug_frame   0x00000000       0xbc ./source/drivers/fsl_dmic_dma.o
  .ARM.attributes
@@ -4664,8 +4664,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_eeprom.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_eeprom.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_eeprom.o
- .debug_line    0x00000000      0x3a6 ./source/drivers/fsl_eeprom.o
- .debug_str     0x00000000    0x84e51 ./source/drivers/fsl_eeprom.o
+ .debug_line    0x00000000      0x3a5 ./source/drivers/fsl_eeprom.o
+ .debug_str     0x00000000    0x84e50 ./source/drivers/fsl_eeprom.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_eeprom.o
  .debug_frame   0x00000000       0x94 ./source/drivers/fsl_eeprom.o
  .ARM.attributes
@@ -4866,8 +4866,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_flashiap.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_flashiap.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_flashiap.o
- .debug_line    0x00000000      0x371 ./source/drivers/fsl_flashiap.o
- .debug_str     0x00000000    0x84643 ./source/drivers/fsl_flashiap.o
+ .debug_line    0x00000000      0x370 ./source/drivers/fsl_flashiap.o
+ .debug_str     0x00000000    0x84642 ./source/drivers/fsl_flashiap.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_flashiap.o
  .debug_frame   0x00000000       0xbc ./source/drivers/fsl_flashiap.o
  .ARM.attributes
@@ -4977,8 +4977,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_fmc.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_fmc.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_fmc.o
- .debug_line    0x00000000      0x2cb ./source/drivers/fsl_fmc.o
- .debug_str     0x00000000    0x850d1 ./source/drivers/fsl_fmc.o
+ .debug_line    0x00000000      0x2ca ./source/drivers/fsl_fmc.o
+ .debug_str     0x00000000    0x850d0 ./source/drivers/fsl_fmc.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_fmc.o
  .debug_frame   0x00000000       0x64 ./source/drivers/fsl_fmc.o
  .ARM.attributes
@@ -5033,8 +5033,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_fmeas.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_fmeas.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_fmeas.o
- .debug_line    0x00000000      0x26f ./source/drivers/fsl_fmeas.o
- .debug_str     0x00000000    0x84594 ./source/drivers/fsl_fmeas.o
+ .debug_line    0x00000000      0x26e ./source/drivers/fsl_fmeas.o
+ .debug_str     0x00000000    0x84593 ./source/drivers/fsl_fmeas.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_fmeas.o
  .debug_frame   0x00000000       0x20 ./source/drivers/fsl_fmeas.o
  .ARM.attributes
@@ -5150,8 +5150,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_gpio.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_gpio.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_gpio.o
- .debug_line    0x00000000      0x27a ./source/drivers/fsl_gpio.o
- .debug_str     0x00000000    0x83faf ./source/drivers/fsl_gpio.o
+ .debug_line    0x00000000      0x279 ./source/drivers/fsl_gpio.o
+ .debug_str     0x00000000    0x83fae ./source/drivers/fsl_gpio.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_gpio.o
  .debug_frame   0x00000000       0x30 ./source/drivers/fsl_gpio.o
  .ARM.attributes
@@ -5270,8 +5270,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_i2c.o
  .debug_macro   0x00000000       0x40 ./source/drivers/fsl_i2c.o
  .debug_macro   0x00000000       0x1c ./source/drivers/fsl_i2c.o
- .debug_line    0x00000000      0xd12 ./source/drivers/fsl_i2c.o
- .debug_str     0x00000000    0x85452 ./source/drivers/fsl_i2c.o
+ .debug_line    0x00000000      0xd11 ./source/drivers/fsl_i2c.o
+ .debug_str     0x00000000    0x85451 ./source/drivers/fsl_i2c.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_i2c.o
  .debug_frame   0x00000000      0x314 ./source/drivers/fsl_i2c.o
  .ARM.attributes
@@ -5346,8 +5346,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_i2c_dma.o
  .debug_macro   0x00000000       0x40 ./source/drivers/fsl_i2c_dma.o
  .debug_macro   0x00000000       0x22 ./source/drivers/fsl_i2c_dma.o
- .debug_line    0x00000000      0x558 ./source/drivers/fsl_i2c_dma.o
- .debug_str     0x00000000    0x8557e ./source/drivers/fsl_i2c_dma.o
+ .debug_line    0x00000000      0x557 ./source/drivers/fsl_i2c_dma.o
+ .debug_str     0x00000000    0x8557d ./source/drivers/fsl_i2c_dma.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_i2c_dma.o
  .debug_frame   0x00000000      0x110 ./source/drivers/fsl_i2c_dma.o
  .ARM.attributes
@@ -5436,8 +5436,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_i2s.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_i2s.o
  .debug_macro   0x00000000       0x10 ./source/drivers/fsl_i2s.o
- .debug_line    0x00000000      0x767 ./source/drivers/fsl_i2s.o
- .debug_str     0x00000000    0x84697 ./source/drivers/fsl_i2s.o
+ .debug_line    0x00000000      0x766 ./source/drivers/fsl_i2s.o
+ .debug_str     0x00000000    0x84696 ./source/drivers/fsl_i2s.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_i2s.o
  .debug_frame   0x00000000      0x20c ./source/drivers/fsl_i2s.o
  .ARM.attributes
@@ -5520,8 +5520,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_i2s_dma.o
  .debug_macro   0x00000000       0x1c ./source/drivers/fsl_i2s_dma.o
  .debug_macro   0x00000000       0x16 ./source/drivers/fsl_i2s_dma.o
- .debug_line    0x00000000      0x6b4 ./source/drivers/fsl_i2s_dma.o
- .debug_str     0x00000000    0x84f46 ./source/drivers/fsl_i2s_dma.o
+ .debug_line    0x00000000      0x6b3 ./source/drivers/fsl_i2s_dma.o
+ .debug_str     0x00000000    0x84f45 ./source/drivers/fsl_i2s_dma.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_i2s_dma.o
  .debug_frame   0x00000000      0x190 ./source/drivers/fsl_i2s_dma.o
  .ARM.attributes
@@ -5582,8 +5582,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_inputmux.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_inputmux.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_inputmux.o
- .debug_line    0x00000000      0x2bf ./source/drivers/fsl_inputmux.o
- .debug_str     0x00000000    0x85f68 ./source/drivers/fsl_inputmux.o
+ .debug_line    0x00000000      0x2be ./source/drivers/fsl_inputmux.o
+ .debug_str     0x00000000    0x85f67 ./source/drivers/fsl_inputmux.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_inputmux.o
  .debug_frame   0x00000000       0x40 ./source/drivers/fsl_inputmux.o
  .ARM.attributes
@@ -5803,8 +5803,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_mrt.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_mrt.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_mrt.o
- .debug_line    0x00000000      0x2cb ./source/drivers/fsl_mrt.o
- .debug_str     0x00000000    0x85167 ./source/drivers/fsl_mrt.o
+ .debug_line    0x00000000      0x2ca ./source/drivers/fsl_mrt.o
+ .debug_str     0x00000000    0x85166 ./source/drivers/fsl_mrt.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_mrt.o
  .debug_frame   0x00000000       0x60 ./source/drivers/fsl_mrt.o
  .ARM.attributes
@@ -5919,8 +5919,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_power.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_power.o
  .debug_macro   0x00000000       0x1c ./source/drivers/fsl_power.o
- .debug_line    0x00000000      0x25d ./source/drivers/fsl_power.o
- .debug_str     0x00000000    0x83e68 ./source/drivers/fsl_power.o
+ .debug_line    0x00000000      0x25c ./source/drivers/fsl_power.o
+ .debug_str     0x00000000    0x83e67 ./source/drivers/fsl_power.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_power.o
  .ARM.attributes
                 0x00000000       0x39 ./source/drivers/fsl_power.o
@@ -6035,8 +6035,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_rit.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_rit.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_rit.o
- .debug_line    0x00000000      0x336 ./source/drivers/fsl_rit.o
- .debug_str     0x00000000    0x84c41 ./source/drivers/fsl_rit.o
+ .debug_line    0x00000000      0x335 ./source/drivers/fsl_rit.o
+ .debug_str     0x00000000    0x84c40 ./source/drivers/fsl_rit.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_rit.o
  .debug_frame   0x00000000       0xcc ./source/drivers/fsl_rit.o
  .ARM.attributes
@@ -6102,8 +6102,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x273 ./source/drivers/fsl_rtc.o
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_rtc.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_rtc.o
- .debug_line    0x00000000      0x493 ./source/drivers/fsl_rtc.o
- .debug_str     0x00000000    0x84d72 ./source/drivers/fsl_rtc.o
+ .debug_line    0x00000000      0x492 ./source/drivers/fsl_rtc.o
+ .debug_str     0x00000000    0x84d71 ./source/drivers/fsl_rtc.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_rtc.o
  .debug_frame   0x00000000       0xf0 ./source/drivers/fsl_rtc.o
  .ARM.attributes
@@ -6331,8 +6331,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_spi.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_spi.o
  .debug_macro   0x00000000       0x40 ./source/drivers/fsl_spi.o
- .debug_line    0x00000000      0x791 ./source/drivers/fsl_spi.o
- .debug_str     0x00000000    0x85685 ./source/drivers/fsl_spi.o
+ .debug_line    0x00000000      0x790 ./source/drivers/fsl_spi.o
+ .debug_str     0x00000000    0x85684 ./source/drivers/fsl_spi.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_spi.o
  .debug_frame   0x00000000      0x1f4 ./source/drivers/fsl_spi.o
  .ARM.attributes
@@ -6411,8 +6411,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_spi_dma.o
  .debug_macro   0x00000000       0x1c ./source/drivers/fsl_spi_dma.o
  .debug_macro   0x00000000       0x40 ./source/drivers/fsl_spi_dma.o
- .debug_line    0x00000000      0x472 ./source/drivers/fsl_spi_dma.o
- .debug_str     0x00000000    0x85159 ./source/drivers/fsl_spi_dma.o
+ .debug_line    0x00000000      0x471 ./source/drivers/fsl_spi_dma.o
+ .debug_str     0x00000000    0x85158 ./source/drivers/fsl_spi_dma.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_spi_dma.o
  .debug_frame   0x00000000       0xec ./source/drivers/fsl_spi_dma.o
  .ARM.attributes
@@ -6538,8 +6538,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_spifi_dma.o
  .debug_macro   0x00000000       0x1c ./source/drivers/fsl_spifi_dma.o
  .debug_macro   0x00000000       0x10 ./source/drivers/fsl_spifi_dma.o
- .debug_line    0x00000000      0x472 ./source/drivers/fsl_spifi_dma.o
- .debug_str     0x00000000    0x84c9b ./source/drivers/fsl_spifi_dma.o
+ .debug_line    0x00000000      0x471 ./source/drivers/fsl_spifi_dma.o
+ .debug_str     0x00000000    0x84c9a ./source/drivers/fsl_spifi_dma.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_spifi_dma.o
  .debug_frame   0x00000000      0x190 ./source/drivers/fsl_spifi_dma.o
  .ARM.attributes
@@ -6687,8 +6687,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_usart_dma.o
  .debug_macro   0x00000000       0x16 ./source/drivers/fsl_usart_dma.o
  .debug_macro   0x00000000       0x22 ./source/drivers/fsl_usart_dma.o
- .debug_line    0x00000000      0x46b ./source/drivers/fsl_usart_dma.o
- .debug_str     0x00000000    0x84eb8 ./source/drivers/fsl_usart_dma.o
+ .debug_line    0x00000000      0x46a ./source/drivers/fsl_usart_dma.o
+ .debug_str     0x00000000    0x84eb7 ./source/drivers/fsl_usart_dma.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_usart_dma.o
  .debug_frame   0x00000000      0x118 ./source/drivers/fsl_usart_dma.o
  .ARM.attributes
@@ -6812,8 +6812,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xda ./source/drivers/fsl_wwdt.o
  .debug_macro   0x00000000       0x35 ./source/drivers/fsl_wwdt.o
  .debug_macro   0x00000000       0x16 ./source/drivers/fsl_wwdt.o
- .debug_line    0x00000000      0x325 ./source/drivers/fsl_wwdt.o
- .debug_str     0x00000000    0x8521b ./source/drivers/fsl_wwdt.o
+ .debug_line    0x00000000      0x324 ./source/drivers/fsl_wwdt.o
+ .debug_str     0x00000000    0x8521a ./source/drivers/fsl_wwdt.o
  .comment       0x00000000       0x6f ./source/drivers/fsl_wwdt.o
  .debug_frame   0x00000000       0x7c ./source/drivers/fsl_wwdt.o
  .ARM.attributes
@@ -6890,8 +6890,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x40 ./source/TouchScreen/fsl_ft5406.o
  .debug_macro   0x00000000       0x22 ./source/TouchScreen/fsl_ft5406.o
  .debug_macro   0x00000000       0x10 ./source/TouchScreen/fsl_ft5406.o
- .debug_line    0x00000000      0x4df ./source/TouchScreen/fsl_ft5406.o
- .debug_str     0x00000000    0x85476 ./source/TouchScreen/fsl_ft5406.o
+ .debug_line    0x00000000      0x4dc ./source/TouchScreen/fsl_ft5406.o
+ .debug_str     0x00000000    0x85475 ./source/TouchScreen/fsl_ft5406.o
  .comment       0x00000000       0x6f ./source/TouchScreen/fsl_ft5406.o
  .debug_frame   0x00000000       0xb4 ./source/TouchScreen/fsl_ft5406.o
  .ARM.attributes
@@ -7069,8 +7069,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 ./source/Audio/fsl_wm8904.o
  .debug_macro   0x00000000       0x10 ./source/Audio/fsl_wm8904.o
  .debug_macro   0x00000000       0x40 ./source/Audio/fsl_wm8904.o
- .debug_line    0x00000000      0x774 ./source/Audio/fsl_wm8904.o
- .debug_str     0x00000000    0x853f0 ./source/Audio/fsl_wm8904.o
+ .debug_line    0x00000000      0x771 ./source/Audio/fsl_wm8904.o
+ .debug_str     0x00000000    0x853ef ./source/Audio/fsl_wm8904.o
  .comment       0x00000000       0x6f ./source/Audio/fsl_wm8904.o
  .debug_frame   0x00000000      0x1ac ./source/Audio/fsl_wm8904.o
  .ARM.attributes
@@ -7154,244 +7154,244 @@ Discarded input sections
  .debug_macro   0x00000000       0x1c ./source/main.o
  .debug_macro   0x00000000       0x22 ./source/main.o
  .debug_macro   0x00000000       0xc4 ./source/main.o
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.DeepSleepReloc
-                0x00000000      0x164 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000      0x164 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_setVdLevel
-                0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_setLpVdLevel
-                0x00000000       0x48 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x48 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_EnterSleep
-                0x00000000       0x1c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x1c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_EnterDeepSleep
-                0x00000000       0x34 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x34 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_EnterDeepPowerDown
-                0x00000000       0x3c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x3c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_EnterPowerMode
-                0x00000000       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_SetLowPowerVoltageForFreq
-                0x00000000       0x3c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x3c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_SetUsbPhy
-                0x00000000       0x1c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000       0x1c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .text.POWER_GetLibVersion
-                0x00000000        0x6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000000        0x6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .bss.relocMem.6630
-                0x00000000      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+                0x00000000      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
  .text.stage_rfft_f32
-                0x00000000       0xa8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+                0x00000000       0xa8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
  .text.merge_rfft_f32
-                0x00000000       0xa0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0xa0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_128
-                0x00000000       0xe0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0xe0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_2048
-                0x00000000      0xf80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0xf80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_32_q31
-                0x00000000       0xc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0xc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_4096
-                0x00000000     0x1f80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x1f80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_1024
-                0x00000000      0x7c0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x7c0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_1024_q15
-                0x00000000      0xc00 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0xc00 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_1024_q31
-                0x00000000     0x1800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x1800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_32_q15
-                0x00000000       0x60 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x60 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_4096_q15
-                0x00000000     0x3000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x3000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_4096_q31
-                0x00000000     0x6000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x6000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.sinTable_q15
-                0x00000000      0x402 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x402 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.sinTable_q31
-                0x00000000      0x804 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x804 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_16_q15
-                0x00000000       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_16_q31
-                0x00000000       0x60 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x60 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevTable
-                0x00000000      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.sinTable_f32
-                0x00000000      0x804 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x804 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_64_q15
-                0x00000000       0xc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0xc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_2048_q15
-                0x00000000     0x1800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x1800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_64_q31
-                0x00000000      0x180 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x180 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_2048_q31
-                0x00000000     0x3000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x3000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_256_q15
-                0x00000000      0x300 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x300 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_512_q15
-                0x00000000      0x600 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x600 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_256_q31
-                0x00000000      0x600 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x600 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_512_q31
-                0x00000000      0xc00 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0xc00 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armRecipTableQ15
-                0x00000000       0x80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable4096
-                0x00000000     0x1f80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x1f80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armRecipTableQ31
-                0x00000000      0x100 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x100 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_512
-                0x00000000      0x3c0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x3c0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_16
-                0x00000000       0x18 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x18 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_128_q15
-                0x00000000      0x180 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x180 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_32
-                0x00000000       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_256
-                0x00000000      0x1e0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000      0x1e0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.armBitRevIndexTable_fixed_64
-                0x00000000       0x70 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000       0x70 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_4096
-                0x00000000     0x8000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000000     0x8000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .rodata.twiddleCoef_128_q31
-                0x00000000      0x300 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00000000       0x76 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00000000       0x76 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
- .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+                0x00000000      0x300 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .group         0x00000000        0x8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .text          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00000000       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .data          0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+ .bss           0x00000000        0x0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
  .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
  .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
  .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
@@ -7737,8 +7737,8 @@ LOAD ./source/CMSIS/system_LPC54608.o
 LOAD ./source/Audio/Audio.o
 LOAD ./source/Audio/fsl_wm8904.o
 LOAD ./source/main.o
-LOAD C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a
-LOAD C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a
+LOAD C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a
+LOAD C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a
 START GROUP
 LOAD c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a
 LOAD c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_c.a
@@ -8325,33 +8325,33 @@ END GROUP
                 0x00003f50      0x228 ./source/main.o
                 0x00003f50                main
  .text.POWER_SetVoltageForFreq
-                0x00004178       0x34 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00004178       0x34 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
                 0x00004178                POWER_SetVoltageForFreq
  .text.POWER_SetPLL
-                0x000041ac       0x1c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x000041ac       0x1c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
                 0x000041ac                POWER_SetPLL
  .text.arm_rfft_fast_f32
-                0x000041c8      0x16c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+                0x000041c8      0x16c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
                 0x000041c8                arm_rfft_fast_f32
  .text.arm_rfft_fast_init_f32
-                0x00004334      0x104 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+                0x00004334      0x104 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
                 0x00004334                arm_rfft_fast_init_f32
  .text.arm_cmplx_mag_squared_f32
-                0x00004438       0x9c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+                0x00004438       0x9c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
                 0x00004438                arm_cmplx_mag_squared_f32
  .text.arm_cfft_radix8by2_f32
-                0x000044d4      0x180 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+                0x000044d4      0x180 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
                 0x000044d4                arm_cfft_radix8by2_f32
  .text.arm_cfft_radix8by4_f32
-                0x00004654      0x480 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+                0x00004654      0x480 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
                 0x00004654                arm_cfft_radix8by4_f32
  .text.arm_cfft_f32
-                0x00004ad4       0xf4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+                0x00004ad4       0xf4 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
                 0x00004ad4                arm_cfft_f32
  .text.arm_radix8_butterfly_f32
-                0x00004bc8      0x5b8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+                0x00004bc8      0x5b8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
                 0x00004bc8                arm_radix8_butterfly_f32
- .text          0x00005180       0xc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+ .text          0x00005180       0xc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
                 0x00005180                arm_bitreversal_32
                 0x000051ea                arm_bitreversal_16
  .text.__main   0x00005240        0xe c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
@@ -9085,8 +9085,8 @@ END GROUP
                 0x00008900       0x28 ./source/eGFX/Fonts/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP.o
                 0x00008900                OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP_FontElement_lc_w_Data
  .rodata.str1.4
-                0x00008928       0x9f ./source/eGFX/Drivers/eGFX_Driver_LPCXPresso_54608.o
- *fill*         0x000089c7        0x1 ff
+                0x00008928       0x9e ./source/eGFX/Drivers/eGFX_Driver_LPCXPresso_54608.o
+ *fill*         0x000089c6        0x2 ff
  .rodata.wdtFreqLookup
                 0x000089c8       0x20 ./source/drivers/fsl_clock.o
  .rodata.str1.4
@@ -9124,76 +9124,76 @@ END GROUP
                 0x0000a934       0x48 ./source/main.o
                                  0x46 (size before relaxing)
  .rodata.twiddleCoef_2048
-                0x0000a97c     0x4000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0000a97c     0x4000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0000a97c                twiddleCoef_2048
  .rodata.twiddleCoef_rfft_64
-                0x0000e97c      0x100 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0000e97c      0x100 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0000e97c                twiddleCoef_rfft_64
  .rodata.armBitRevIndexTable64
-                0x0000ea7c       0x70 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0000ea7c       0x70 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0000ea7c                armBitRevIndexTable64
  .rodata.twiddleCoef_rfft_2048
-                0x0000eaec     0x2000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0000eaec     0x2000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0000eaec                twiddleCoef_rfft_2048
  .rodata.twiddleCoef_rfft_4096
-                0x00010aec     0x4000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00010aec     0x4000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x00010aec                twiddleCoef_rfft_4096
  .rodata.twiddleCoef_256
-                0x00014aec      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00014aec      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x00014aec                twiddleCoef_256
  .rodata.twiddleCoef_16
-                0x000152ec       0x80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x000152ec       0x80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x000152ec                twiddleCoef_16
  .rodata.twiddleCoef_1024
-                0x0001536c     0x2000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001536c     0x2000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001536c                twiddleCoef_1024
  .rodata.twiddleCoef_32
-                0x0001736c      0x100 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001736c      0x100 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001736c                twiddleCoef_32
  .rodata.armBitRevIndexTable1024
-                0x0001746c      0xe10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001746c      0xe10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001746c                armBitRevIndexTable1024
  .rodata.armBitRevIndexTable16
-                0x0001827c       0x28 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001827c       0x28 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001827c                armBitRevIndexTable16
  .rodata.twiddleCoef_rfft_32
-                0x000182a4       0x80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x000182a4       0x80 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x000182a4                twiddleCoef_rfft_32
  .rodata.armBitRevIndexTable32
-                0x00018324       0x60 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00018324       0x60 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x00018324                armBitRevIndexTable32
  .rodata.twiddleCoef_128
-                0x00018384      0x400 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00018384      0x400 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x00018384                twiddleCoef_128
  .rodata.twiddleCoef_512
-                0x00018784     0x1000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00018784     0x1000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x00018784                twiddleCoef_512
  .rodata.armBitRevIndexTable2048
-                0x00019784     0x1dc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00019784     0x1dc0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x00019784                armBitRevIndexTable2048
  .rodata.twiddleCoef_64
-                0x0001b544      0x200 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001b544      0x200 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001b544                twiddleCoef_64
  .rodata.twiddleCoef_rfft_512
-                0x0001b744      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001b744      0x800 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001b744                twiddleCoef_rfft_512
  .rodata.armBitRevIndexTable512
-                0x0001bf44      0x380 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001bf44      0x380 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001bf44                armBitRevIndexTable512
  .rodata.twiddleCoef_rfft_1024
-                0x0001c2c4     0x1000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001c2c4     0x1000 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001c2c4                twiddleCoef_rfft_1024
  .rodata.twiddleCoef_rfft_256
-                0x0001d2c4      0x400 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001d2c4      0x400 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001d2c4                twiddleCoef_rfft_256
  .rodata.armBitRevIndexTable256
-                0x0001d6c4      0x370 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001d6c4      0x370 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001d6c4                armBitRevIndexTable256
  .rodata.twiddleCoef_rfft_128
-                0x0001da34      0x200 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001da34      0x200 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001da34                twiddleCoef_rfft_128
  .rodata.armBitRevIndexTable128
-                0x0001dc34      0x1a0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x0001dc34      0x1a0 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                 0x0001dc34                armBitRevIndexTable128
  .rodata.str1.1
                 0x0001ddd4       0x15 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr_assert.o)
@@ -9501,14 +9501,14 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_info    0x00035247      0xefc ./source/CMSIS/system_LPC54608.o
  .debug_info    0x00036143     0x2538 ./source/Audio/Audio.o
  .debug_info    0x0003867b      0xe82 ./source/main.o
- .debug_info    0x000394fd     0x1593 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .debug_info    0x0003aa90      0x6c7 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_info    0x0003b157      0x460 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_info    0x0003b5b7      0x227 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_info    0x0003b7de      0x940 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_info    0x0003c11e      0x63d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_info    0x0003c75b      0x3e5 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_info    0x0003cb40       0xfc C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+ .debug_info    0x000394fd     0x1593 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_info    0x0003aa90      0x6c7 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_info    0x0003b157      0x460 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_info    0x0003b5b7      0x227 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_info    0x0003b7de      0x940 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_info    0x0003c11e      0x63d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_info    0x0003c75b      0x3e5 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_info    0x0003cb40       0xfc C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
 
 .debug_abbrev   0x00000000     0x5fe7
  .debug_abbrev  0x00000000      0x24e ./source/utilities/fsl_debug_console.o
@@ -9540,14 +9540,14 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_abbrev  0x00005003      0x1f3 ./source/CMSIS/system_LPC54608.o
  .debug_abbrev  0x000051f6      0x26a ./source/Audio/Audio.o
  .debug_abbrev  0x00005460      0x247 ./source/main.o
- .debug_abbrev  0x000056a7      0x369 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .debug_abbrev  0x00005a10      0x17e C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_abbrev  0x00005b8e      0x107 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_abbrev  0x00005c95       0x91 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_abbrev  0x00005d26       0x85 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_abbrev  0x00005dab      0x181 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_abbrev  0x00005f2c       0xa7 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_abbrev  0x00005fd3       0x14 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+ .debug_abbrev  0x000056a7      0x369 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_abbrev  0x00005a10      0x17e C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_abbrev  0x00005b8e      0x107 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_abbrev  0x00005c95       0x91 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_abbrev  0x00005d26       0x85 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_abbrev  0x00005dab      0x181 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_abbrev  0x00005f2c       0xa7 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_abbrev  0x00005fd3       0x14 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
 
 .debug_loc      0x00000000    0x229b3
  .debug_loc     0x00000000      0x15d ./source/utilities/fsl_debug_console.o
@@ -9577,12 +9577,12 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_loc     0x0001f285      0x29c ./source/CMSIS/system_LPC54608.o
  .debug_loc     0x0001f521      0x13c ./source/Audio/Audio.o
  .debug_loc     0x0001f65d       0x9f ./source/main.o
- .debug_loc     0x0001f6fc      0x504 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .debug_loc     0x0001fc00      0xf24 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_loc     0x00020b24      0x19b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_loc     0x00020cbf      0x3f8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_loc     0x000210b7     0x10a7 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_loc     0x0002215e      0x855 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_loc     0x0001f6fc      0x504 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_loc     0x0001fc00      0xf24 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_loc     0x00020b24      0x19b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_loc     0x00020cbf      0x3f8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_loc     0x000210b7     0x10a7 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_loc     0x0002215e      0x855 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
 
 .debug_aranges  0x00000000     0x12f8
  .debug_aranges
@@ -9644,21 +9644,21 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_aranges
                 0x00001160       0x28 ./source/main.o
  .debug_aranges
-                0x00001188       0x78 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00001188       0x78 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .debug_aranges
-                0x00001200       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+                0x00001200       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
  .debug_aranges
-                0x00001230       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+                0x00001230       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
  .debug_aranges
-                0x00001250       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+                0x00001250       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
  .debug_aranges
-                0x00001270       0x18 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00001270       0x18 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .debug_aranges
-                0x00001288       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+                0x00001288       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
  .debug_aranges
-                0x000012b8       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+                0x000012b8       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
  .debug_aranges
-                0x000012d8       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+                0x000012d8       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
 
 .debug_ranges   0x00000000     0x4440
  .debug_ranges  0x00000000       0x40 ./source/utilities/fsl_debug_console.o
@@ -9688,12 +9688,12 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_ranges  0x00004128       0xf8 ./source/CMSIS/system_LPC54608.o
  .debug_ranges  0x00004220       0x98 ./source/Audio/Audio.o
  .debug_ranges  0x000042b8       0x50 ./source/main.o
- .debug_ranges  0x00004308       0xc8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .debug_ranges  0x000043d0       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_ranges  0x000043f0       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_ranges  0x00004400       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_ranges  0x00004410       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_ranges  0x00004430       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_ranges  0x00004308       0xc8 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_ranges  0x000043d0       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_ranges  0x000043f0       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_ranges  0x00004400       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_ranges  0x00004410       0x20 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_ranges  0x00004430       0x10 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
 
 .debug_macro    0x00000000    0x13f9e
  .debug_macro   0x00000000      0x164 ./source/utilities/fsl_debug_console.o
@@ -9784,131 +9784,131 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_macro   0x00012f51       0xee ./source/main.o
  .debug_macro   0x0001303f       0x12 ./source/main.o
  .debug_macro   0x00013051       0xd6 ./source/main.o
- .debug_macro   0x00013127       0x9a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x000131c1      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00013a77       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00013a89       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00013ac4       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00013af1       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00013b17       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_macro   0x00013bed       0xad C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00013c9a       0x76 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_macro   0x00013d10       0x9a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_macro   0x00013daa       0xad C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_macro   0x00013e57       0xad C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_macro   0x00013f04       0x9a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_macro   0x00013127       0x9a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x000131c1      0x8b6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00013a77       0x12 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00013a89       0x3b C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00013ac4       0x2d C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00013af1       0x26 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00013b17       0xd6 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_macro   0x00013bed       0xad C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00013c9a       0x76 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_macro   0x00013d10       0x9a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_macro   0x00013daa       0xad C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_macro   0x00013e57       0xad C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_macro   0x00013f04       0x9a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
 
-.debug_line     0x00000000     0xdc5c
- .debug_line    0x00000000      0x39c ./source/utilities/fsl_debug_console.o
- .debug_line    0x0000039c      0x4e2 ./source/startup/startup_LPC54608.o
- .debug_line    0x0000087e      0x495 ./source/lpcxpresso54608/board.o
- .debug_line    0x00000d13      0x3dd ./source/lpcxpresso54608/clock_config.o
- .debug_line    0x000010f0      0x34c ./source/lpcxpresso54608/pin_mux.o
- .debug_line    0x0000143c      0x206 ./source/eGFX/Sprites/Sprites_16BPP_565.o
- .debug_line    0x00001642      0x28e ./source/eGFX/Fonts/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP.o
- .debug_line    0x000018d0      0x785 ./source/eGFX/Drivers/eGFX_Driver_LPCXPresso_54608.o
- .debug_line    0x00002055     0x171c ./source/eGFX/eGFX.o
- .debug_line    0x00003771     0x159a ./source/drivers/fsl_clock.o
- .debug_line    0x00004d0b      0x66b ./source/drivers/fsl_ctimer.o
- .debug_line    0x00005376      0x588 ./source/drivers/fsl_dma.o
- .debug_line    0x000058fe      0x465 ./source/drivers/fsl_dmic.o
- .debug_line    0x00005d63      0x767 ./source/drivers/fsl_emc.o
- .debug_line    0x000064ca      0x9eb ./source/drivers/fsl_enet.o
- .debug_line    0x00006eb5      0x41a ./source/drivers/fsl_flexcomm.o
- .debug_line    0x000072cf      0x3eb ./source/drivers/fsl_gint.o
- .debug_line    0x000076ba      0x4a5 ./source/drivers/fsl_lcdc.o
- .debug_line    0x00007b5f      0x9ee ./source/drivers/fsl_mcan.o
- .debug_line    0x0000854d      0x7c4 ./source/drivers/fsl_pint.o
- .debug_line    0x00008d11      0x2d1 ./source/drivers/fsl_reset.o
- .debug_line    0x00008fe2      0x58f ./source/drivers/fsl_sctimer.o
- .debug_line    0x00009571      0xa7b ./source/drivers/fsl_sdif.o
- .debug_line    0x00009fec      0x33e ./source/drivers/fsl_spifi.o
- .debug_line    0x0000a32a      0x72e ./source/drivers/fsl_usart.o
- .debug_line    0x0000aa58      0x338 ./source/drivers/fsl_utick.o
- .debug_line    0x0000ad90      0x262 ./source/CMSIS/system_LPC54608.o
- .debug_line    0x0000aff2      0x485 ./source/Audio/Audio.o
- .debug_line    0x0000b477      0xa8c ./source/main.o
- .debug_line    0x0000bf03      0x348 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .debug_line    0x0000c24b      0x382 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_line    0x0000c5cd      0x27c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_line    0x0000c849      0x25e C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_line    0x0000caa7      0x212 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .debug_line    0x0000ccb9      0x7ee C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_line    0x0000d4a7      0x6d2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
- .debug_line    0x0000db79       0xe3 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+.debug_line     0x00000000     0xdc2d
+ .debug_line    0x00000000      0x39a ./source/utilities/fsl_debug_console.o
+ .debug_line    0x0000039a      0x4e2 ./source/startup/startup_LPC54608.o
+ .debug_line    0x0000087c      0x492 ./source/lpcxpresso54608/board.o
+ .debug_line    0x00000d0e      0x3db ./source/lpcxpresso54608/clock_config.o
+ .debug_line    0x000010e9      0x34a ./source/lpcxpresso54608/pin_mux.o
+ .debug_line    0x00001433      0x205 ./source/eGFX/Sprites/Sprites_16BPP_565.o
+ .debug_line    0x00001638      0x28d ./source/eGFX/Fonts/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP.o
+ .debug_line    0x000018c5      0x781 ./source/eGFX/Drivers/eGFX_Driver_LPCXPresso_54608.o
+ .debug_line    0x00002046     0x171c ./source/eGFX/eGFX.o
+ .debug_line    0x00003762     0x1599 ./source/drivers/fsl_clock.o
+ .debug_line    0x00004cfb      0x66a ./source/drivers/fsl_ctimer.o
+ .debug_line    0x00005365      0x587 ./source/drivers/fsl_dma.o
+ .debug_line    0x000058ec      0x464 ./source/drivers/fsl_dmic.o
+ .debug_line    0x00005d50      0x766 ./source/drivers/fsl_emc.o
+ .debug_line    0x000064b6      0x9ea ./source/drivers/fsl_enet.o
+ .debug_line    0x00006ea0      0x419 ./source/drivers/fsl_flexcomm.o
+ .debug_line    0x000072b9      0x3ea ./source/drivers/fsl_gint.o
+ .debug_line    0x000076a3      0x4a4 ./source/drivers/fsl_lcdc.o
+ .debug_line    0x00007b47      0x9ed ./source/drivers/fsl_mcan.o
+ .debug_line    0x00008534      0x7c3 ./source/drivers/fsl_pint.o
+ .debug_line    0x00008cf7      0x2d0 ./source/drivers/fsl_reset.o
+ .debug_line    0x00008fc7      0x58e ./source/drivers/fsl_sctimer.o
+ .debug_line    0x00009555      0xa7a ./source/drivers/fsl_sdif.o
+ .debug_line    0x00009fcf      0x33d ./source/drivers/fsl_spifi.o
+ .debug_line    0x0000a30c      0x72d ./source/drivers/fsl_usart.o
+ .debug_line    0x0000aa39      0x337 ./source/drivers/fsl_utick.o
+ .debug_line    0x0000ad70      0x262 ./source/CMSIS/system_LPC54608.o
+ .debug_line    0x0000afd2      0x482 ./source/Audio/Audio.o
+ .debug_line    0x0000b454      0xa80 ./source/main.o
+ .debug_line    0x0000bed4      0x348 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_line    0x0000c21c      0x382 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_line    0x0000c59e      0x27c C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_line    0x0000c81a      0x25e C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_line    0x0000ca78      0x212 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_line    0x0000cc8a      0x7ee C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_line    0x0000d478      0x6d2 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_line    0x0000db4a       0xe3 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
 
-.debug_str      0x00000000    0x9c7bc
- .debug_str     0x00000000    0x8530b ./source/utilities/fsl_debug_console.o
-                              0x85434 (size before relaxing)
- .debug_str     0x0008530b      0x717 ./source/startup/startup_LPC54608.o
+.debug_str      0x00000000    0x9c814
+ .debug_str     0x00000000    0x8530a ./source/utilities/fsl_debug_console.o
+                              0x85433 (size before relaxing)
+ .debug_str     0x0008530a      0x770 ./source/startup/startup_LPC54608.o
                                0x2d40 (size before relaxing)
- .debug_str     0x00085a22     0x2732 ./source/lpcxpresso54608/board.o
-                              0x8709b (size before relaxing)
- .debug_str     0x00088154      0x956 ./source/lpcxpresso54608/clock_config.o
-                              0x8530d (size before relaxing)
- .debug_str     0x00088aaa      0xb6e ./source/lpcxpresso54608/pin_mux.o
-                              0x84f6f (size before relaxing)
- .debug_str     0x00089618      0xf91 ./source/eGFX/Sprites/Sprites_16BPP_565.o
-                               0x4ce5 (size before relaxing)
- .debug_str     0x0008a5a9     0x3cd2 ./source/eGFX/Fonts/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP.o
-                               0x8947 (size before relaxing)
- .debug_str     0x0008e27b     0x1a76 ./source/eGFX/Drivers/eGFX_Driver_LPCXPresso_54608.o
-                              0x886d4 (size before relaxing)
- .debug_str     0x0008fcf1      0xe2c ./source/eGFX/eGFX.o
+ .debug_str     0x00085a7a     0x2732 ./source/lpcxpresso54608/board.o
+                              0x8709a (size before relaxing)
+ .debug_str     0x000881ac      0x956 ./source/lpcxpresso54608/clock_config.o
+                              0x8530c (size before relaxing)
+ .debug_str     0x00088b02      0xb6e ./source/lpcxpresso54608/pin_mux.o
+                              0x84f6e (size before relaxing)
+ .debug_str     0x00089670      0xf91 ./source/eGFX/Sprites/Sprites_16BPP_565.o
+                               0x4ce4 (size before relaxing)
+ .debug_str     0x0008a601     0x3cd2 ./source/eGFX/Fonts/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP/OCR_A_Extended__20px__Bold__SingleBitPerPixelGridFit_1BPP.o
+                               0x8946 (size before relaxing)
+ .debug_str     0x0008e2d3     0x1a76 ./source/eGFX/Drivers/eGFX_Driver_LPCXPresso_54608.o
+                              0x886d3 (size before relaxing)
+ .debug_str     0x0008fd49      0xe2c ./source/eGFX/eGFX.o
                                0x636b (size before relaxing)
- .debug_str     0x00090b1d     0x13b1 ./source/drivers/fsl_clock.o
-                              0x8755c (size before relaxing)
- .debug_str     0x00091ece      0x6a0 ./source/drivers/fsl_ctimer.o
-                              0x861e4 (size before relaxing)
- .debug_str     0x0009256e      0x44a ./source/drivers/fsl_dma.o
-                              0x857ac (size before relaxing)
- .debug_str     0x000929b8      0x6c9 ./source/drivers/fsl_dmic.o
-                              0x85abc (size before relaxing)
- .debug_str     0x00093081      0x48c ./source/drivers/fsl_emc.o
-                              0x85753 (size before relaxing)
- .debug_str     0x0009350d     0x2168 ./source/drivers/fsl_enet.o
-                              0x87882 (size before relaxing)
- .debug_str     0x00095675      0x29c ./source/drivers/fsl_flexcomm.o
-                              0x857f6 (size before relaxing)
- .debug_str     0x00095911      0x23f ./source/drivers/fsl_gint.o
-                              0x8562d (size before relaxing)
- .debug_str     0x00095b50      0x4a7 ./source/drivers/fsl_lcdc.o
-                              0x859aa (size before relaxing)
- .debug_str     0x00095ff7     0x136e ./source/drivers/fsl_mcan.o
-                              0x869ea (size before relaxing)
- .debug_str     0x00097365      0xa04 ./source/drivers/fsl_pint.o
-                              0x85ddf (size before relaxing)
- .debug_str     0x00097d69       0x75 ./source/drivers/fsl_reset.o
-                              0x849d7 (size before relaxing)
- .debug_str     0x00097dde      0x6d0 ./source/drivers/fsl_sctimer.o
-                              0x85d3c (size before relaxing)
- .debug_str     0x000984ae     0x14e5 ./source/drivers/fsl_sdif.o
-                              0x8705f (size before relaxing)
- .debug_str     0x00099993       0x7e ./source/drivers/fsl_spifi.o
-                              0x84f42 (size before relaxing)
- .debug_str     0x00099a11      0x54b ./source/drivers/fsl_usart.o
-                              0x85519 (size before relaxing)
- .debug_str     0x00099f5c      0x1a0 ./source/drivers/fsl_utick.o
-                              0x8594a (size before relaxing)
- .debug_str     0x0009a0fc      0x113 ./source/CMSIS/system_LPC54608.o
+ .debug_str     0x00090b75     0x13b1 ./source/drivers/fsl_clock.o
+                              0x8755b (size before relaxing)
+ .debug_str     0x00091f26      0x6a0 ./source/drivers/fsl_ctimer.o
+                              0x861e3 (size before relaxing)
+ .debug_str     0x000925c6      0x44a ./source/drivers/fsl_dma.o
+                              0x857ab (size before relaxing)
+ .debug_str     0x00092a10      0x6c9 ./source/drivers/fsl_dmic.o
+                              0x85abb (size before relaxing)
+ .debug_str     0x000930d9      0x48c ./source/drivers/fsl_emc.o
+                              0x85752 (size before relaxing)
+ .debug_str     0x00093565     0x2168 ./source/drivers/fsl_enet.o
+                              0x87881 (size before relaxing)
+ .debug_str     0x000956cd      0x29c ./source/drivers/fsl_flexcomm.o
+                              0x857f5 (size before relaxing)
+ .debug_str     0x00095969      0x23f ./source/drivers/fsl_gint.o
+                              0x8562c (size before relaxing)
+ .debug_str     0x00095ba8      0x4a7 ./source/drivers/fsl_lcdc.o
+                              0x859a9 (size before relaxing)
+ .debug_str     0x0009604f     0x136e ./source/drivers/fsl_mcan.o
+                              0x869e9 (size before relaxing)
+ .debug_str     0x000973bd      0xa04 ./source/drivers/fsl_pint.o
+                              0x85dde (size before relaxing)
+ .debug_str     0x00097dc1       0x75 ./source/drivers/fsl_reset.o
+                              0x849d6 (size before relaxing)
+ .debug_str     0x00097e36      0x6d0 ./source/drivers/fsl_sctimer.o
+                              0x85d3b (size before relaxing)
+ .debug_str     0x00098506     0x14e5 ./source/drivers/fsl_sdif.o
+                              0x8705e (size before relaxing)
+ .debug_str     0x000999eb       0x7e ./source/drivers/fsl_spifi.o
+                              0x84f41 (size before relaxing)
+ .debug_str     0x00099a69      0x54b ./source/drivers/fsl_usart.o
+                              0x85518 (size before relaxing)
+ .debug_str     0x00099fb4      0x1a0 ./source/drivers/fsl_utick.o
+                              0x85949 (size before relaxing)
+ .debug_str     0x0009a154      0x113 ./source/CMSIS/system_LPC54608.o
                               0x82d58 (size before relaxing)
- .debug_str     0x0009a20f      0x7cc ./source/Audio/Audio.o
-                              0x86e69 (size before relaxing)
- .debug_str     0x0009a9db      0x7dd ./source/main.o
-                              0x883a3 (size before relaxing)
- .debug_str     0x0009b1b8      0x561 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_str     0x0009a267      0x7cc ./source/Audio/Audio.o
+                              0x86e68 (size before relaxing)
+ .debug_str     0x0009aa33      0x7dd ./source/main.o
+                              0x883a2 (size before relaxing)
+ .debug_str     0x0009b210      0x561 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
                                 0xd2b (size before relaxing)
- .debug_str     0x0009b719      0x32a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_str     0x0009b771      0x32a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
                                0x4d84 (size before relaxing)
- .debug_str     0x0009ba43      0x72a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_str     0x0009ba9b      0x72a C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
                                0x53f4 (size before relaxing)
- .debug_str     0x0009c16d      0x111 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_str     0x0009c1c5      0x111 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
                                0x4d5f (size before relaxing)
- .debug_str     0x0009c27e      0x361 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .debug_str     0x0009c2d6      0x361 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
                                0x55cd (size before relaxing)
- .debug_str     0x0009c5df      0x14f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_str     0x0009c637      0x14f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
                                0x5227 (size before relaxing)
- .debug_str     0x0009c72e       0x8e C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_str     0x0009c786       0x8e C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
                                0x4cf0 (size before relaxing)
 
 .comment        0x00000000       0x6e
@@ -9942,13 +9942,13 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .comment       0x0000006e       0x6f ./source/CMSIS/system_LPC54608.o
  .comment       0x0000006e       0x6f ./source/Audio/Audio.o
  .comment       0x0000006e       0x6f ./source/main.o
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .comment       0x0000006e       0x6f C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
  .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
  .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr_assert.o)
  .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(__ciob.o)
@@ -10049,21 +10049,21 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .ARM.attributes
                 0x0000063c       0x39 ./source/main.o
  .ARM.attributes
-                0x00000675       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+                0x00000675       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
  .ARM.attributes
-                0x000006ae       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+                0x000006ae       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
  .ARM.attributes
-                0x000006e7       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+                0x000006e7       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
  .ARM.attributes
-                0x00000720       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+                0x00000720       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
  .ARM.attributes
-                0x00000759       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
+                0x00000759       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_common_tables.o)
  .ARM.attributes
-                0x00000792       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+                0x00000792       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
  .ARM.attributes
-                0x000007cb       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+                0x000007cb       0x39 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
  .ARM.attributes
-                0x00000804       0x25 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
+                0x00000804       0x25 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_bitreversal2.o)
  .ARM.attributes
                 0x00000829       0x39 c:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libcr_nohost_nf.a(_cr__main.o)
  .ARM.attributes
@@ -10171,9 +10171,9 @@ OUTPUT(Demo 3 - Audio Spectrum Analyzer.axf elf32-littlearm)
  .debug_frame   0x00003560       0x4c ./source/CMSIS/system_LPC54608.o
  .debug_frame   0x000035ac       0x54 ./source/Audio/Audio.o
  .debug_frame   0x00003600       0x60 ./source/main.o
- .debug_frame   0x00003660      0x114 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
- .debug_frame   0x00003774       0x74 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
- .debug_frame   0x000037e8       0x34 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
- .debug_frame   0x0000381c       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
- .debug_frame   0x0000384c       0xfc C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
- .debug_frame   0x00003948       0x94 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)
+ .debug_frame   0x00003660      0x114 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libfsl_power_lib.a(fsl_power_lib.o)
+ .debug_frame   0x00003774       0x74 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_f32.o)
+ .debug_frame   0x000037e8       0x34 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_rfft_fast_init_f32.o)
+ .debug_frame   0x0000381c       0x30 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cmplx_mag_squared_f32.o)
+ .debug_frame   0x0000384c       0xfc C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_f32.o)
+ .debug_frame   0x00003948       0x94 C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs\libCMSIS_DSP_4_5_0_O3_HARD.a(arm_cfft_radix8_f32.o)

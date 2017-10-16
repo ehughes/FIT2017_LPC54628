@@ -44,7 +44,7 @@ all: Demo\ 3\ -\ Audio\ Spectrum\ Analyzer.axf
 Demo\ 3\ -\ Audio\ Spectrum\ Analyzer.axf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 -  Audio Spectrum Analyzer\libs" -Xlinker -Map="Demo 3 - Audio Spectrum Analyzer.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -T "Demo_2_-_DMIC_Visualizer_Debug.ld" -o "Demo 3 - Audio Spectrum Analyzer.axf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -nostdlib -L"C:\Users\Eli Hughes\Desktop\FIT2017_LPC54628\SRC\Demo 3 - Audio Spectrum Analyzer\libs" -Xlinker -Map="Demo 3 - Audio Spectrum Analyzer.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -T "Demo_2_-_DMIC_Visualizer_Debug.ld" -o "Demo 3 - Audio Spectrum Analyzer.axf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build
