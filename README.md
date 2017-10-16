@@ -1,6 +1,6 @@
 # FIT2017_LPC54628
 
-This repository contains LPC54628 examples used at FIT2017
+This repository contains LPC54628 examples used at FIT2017.  These examples can be compiled with MCUXpresso 10.0.2.    The MCU SDK is baked into the project.  These examples do not use the power library modifications to run at 220MHz.   These projects run at 180MHz and should also run on the LPCXpresso54608.
 
 Examples:
 
