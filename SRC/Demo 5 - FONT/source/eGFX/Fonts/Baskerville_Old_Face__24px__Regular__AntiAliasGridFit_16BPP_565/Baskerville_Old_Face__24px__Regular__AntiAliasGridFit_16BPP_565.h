@@ -1,0 +1,9 @@
+#include "eGFX.h" 
+
+#ifndef _BASKERVILLE_OLD_FACE__24PX__REGULAR__ANTIALIASGRIDFIT_16BPP_565_H
+#define _BASKERVILLE_OLD_FACE__24PX__REGULAR__ANTIALIASGRIDFIT_16BPP_565_H
+
+__RODATA(BOARD_FLASH) extern const eGFX_Font Baskerville_Old_Face__24px__Regular__AntiAliasGridFit_16BPP_565;
+
+#endif
+
